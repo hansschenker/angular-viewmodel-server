@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-viewmodel-server"
+    }
+  },
+  "defaultProject": "angular-viewmodel-server",
+  "cli": {
+    "analytics": "bab01b14-ae1e-4962-9524-ff77372249b3"
+  }
 }

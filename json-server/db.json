@@ -1,0 +1,12 @@
+{
+  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "persons": [
+    { "id": 1, "name": "John Doe", "age": 44 },
+    { "id": 2, "name": "Margaret Doe", "age": 45 },
+    { "id": 3, "name": "Jimmy Doe", "age": 46 },
+    { "id": 4, "name": "Erik Doe", "age": 47 },
+    { "id": 5, "name": "Caroline Doe", "age": 48 }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" }
+}
